@@ -1,0 +1,7 @@
+# %pip install pandas
+# %pip install altair
+# %pip install numpy
+# %pip install matplotlib
+#%pip install seaborn
+#%pip insatall geopandas
+#%pip install Tensor Flow
